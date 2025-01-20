@@ -9,4 +9,3 @@ The repository is organized as follows:
 - **`VideoMAE_correct_split.ipynb`**: Corrected implementation of VideoMAE with proper dataset splits.
 - **`VideoMAE_correct_split.pth`**: Pretrained weights for the corrected VideoMAE implementation.
 - **`.gitattributes`**: Configuration for handling large files in GitHub.
-- **`.DS_Store`**: System file created by macOS (can be ignored or removed).
