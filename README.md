@@ -3,7 +3,6 @@
 The repository is organized as follows:
 
 - **`WLASL100_videos`**: Folder containing video data used for training and evaluation.
-- **`Models`**: Directory to store trained models and checkpoints.
 - **`nslt_100.json`**: Annotation file mapping videos to their corresponding labels and subsets (train, validation, test).
 - **`TimeSformer.ipynb`**: Notebook implementing the TimeSformer model for ASL recognition.
 - **`VideoMAE.ipynb`**: Initial implementation of VideoMAE for ASL recognition.
